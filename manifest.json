@@ -1,0 +1,84 @@
+{
+    "manifest_version": 3,
+    "name": "PicSearch",
+    "version": "0.0.0.1",
+    "description": "Search for the images on the go!",
+
+    "background": {
+        "service_worker": "eventPage.js",
+        "type": "module" 
+    },
+
+    "action": {
+        "default_icon": {                 
+            "16": "16icon.png",       
+            "32": "32icon.png"           
+          },
+        "default_title": "PicSearch",
+        "default_popup": "popup.html"
+
+    },
+
+    "commands": {
+        "googleSearch": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+5"
+              },
+            "description": "quick Google image search!"
+        },
+        "wikiSearch": {
+            "suggested_key": "Ctrl+Shift+6",
+            "description": "quick Wikipedia search!"
+        },
+        "combinedSearch": {
+            "suggested_key": {
+                "default":"Ctrl+Shift+7"
+            },
+            "description": "quick Google and Wikipedia search!"
+        },
+
+        "_execute_action": {
+            "suggested_key": {
+              "windows": "Ctrl+Shift+Y",
+              "mac": "Command+Shift+Y",
+              "chromeos": "Ctrl+Shift+U",
+              "linux": "Ctrl+Shift+J"
+            }
+        }
+    },
+
+    "content_scripts": [
+        {
+            "matches": [ "http://*/*", "https://*/*" ],
+            "js": ["contntScript.js"]
+        }
+    ],
+
+    "omnibox": { "keyword" : "g" },
+
+    "permissions": [
+        "tabs",
+        "contextMenus",
+        "activeTab",
+        "downloads",
+        "storage",
+        "scripting"
+    ], 
+
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+      ],
+
+    "icons": {
+        "16": "16icon.png",
+        "32": "32icon.png",
+        "48": "48icon.png",
+        "128": "128icon.png"
+      }, 
+
+    "web_accessible_resources":  [{
+        "resources": ["Pics/*.png"],
+        "matches": ["<all_urls>"]
+      }]
+}
