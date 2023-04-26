@@ -13,7 +13,7 @@ The two methods for installing the extension are as follows:
 ### The use of this extension is very simple.
 #### The most straightforward way you can use this application is to click on the extension icon, type in the keyword, and select the desired search engine from Yahoo, Bing, Flickr, or DuckDuckGo.
 
-<img alt="browser action" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNlMDIyOThhMDEwODVjZDlkMTUzN2Q4Y2UwMmVkNTQzYTM5MjE5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/B1slQHGK8Dseezm1ou/giphy.gif" />
+<img alt="browser action" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAyZWRmZDRmOWQxYTBkMTQzZDE4NjAyODY4MDdiODJlOTVlY2ZmZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h6YKHzgTfIrP1gzKxj/giphy.gif" />
 
 #### Additional functionalities can be accessed through hotkeys. 
 1) On any webpage, create a selection of the text you want to search.
@@ -33,9 +33,9 @@ use the following hotkeys:
 <img alt="trigger popup" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZkY2E2MDIyZTJjMWMwYzdjZjg4MTkwODcwZTlkODYxODM5YTU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eBQJX3it1MOnqiMLz8/giphy.gif" />
 
 ### Omnibox
-#### Typing the letter <u>g</u> in the address bar and then clicking on the "PicSearch" button gives you the ability to search for desired text on Google Images with the dimension of the image set to large.
+#### Typing the letter "g" in the address bar and then clicking on the "PicSearch" button gives you the ability to search for desired text on Google Images with the dimension of the image set to large.
 
-<img alt="omnibox" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNlZDVjNTNhZGIyMzU4MWZiMTA3NzlhZjNhOTgzOTQyMjRmOGE3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yaXO6l61GHyO9b5qkH/giphy.gif" />
+<img alt="omnibox" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ3MjAyZWFkNjg5MWViMWQ1YmI2YjJlY2E1MGJhY2ZiYjhkMGQ3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/F2yM91PTZCn0JD22io/giphy.gif" />
 
 
 
