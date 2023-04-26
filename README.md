@@ -21,7 +21,7 @@ The two methods for installing the extension are as follows:
 
 use the following hotkeys: 
  * **CTRL+SHIFT+5** - Searches the selection on Google Images with the dimension of the image set to large. *(You can also do this through Omnibox, as explained below).*
-<img alt="google search" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIxZTZmNmRmOWNhZjIzNDhiM2Y0ZWIzYTZjYTQ0YjdlMmFjM2IxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UYzJe1livuUuqyzpna/giphy.gif" />
+<img alt="google search" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI0ODU3YWYxYmM4NWZhM2ZkYTgxNzA2YzBlYzk1MGIwMWE5NmM2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/FLURUR6MjXct97yjn5/giphy.gif" />
 
 
  * **CTRL+SHIFT+6** - Searches the selection on Wikipedia articles.
@@ -30,10 +30,10 @@ use the following hotkeys:
 
  * **CTRL+SHIFT+7** - Combines the two searches. 
  * **CTRL+SHIFT+Y** - Triggers the extension's popup and populates the search field with the selected text. 
-<img alt="trigger popup" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZkY2E2MDIyZTJjMWMwYzdjZjg4MTkwODcwZTlkODYxODM5YTU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eBQJX3it1MOnqiMLz8/giphy.gif" />
+<img alt="trigger popup" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVhY2QxYjBhMWMxZTAxOWY2MzVjMTYxODQ3NjQyODZmYTIxYzhhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QUhH50tUx99BWPFj8O/giphy.gif" />
 
 ### Omnibox
-#### Typing the letter "g" in the address bar and then clicking on the "PicSearch" button gives you the ability to search for desired text on Google Images with the dimension of the image set to large.
+#### Typing the letter <u>g</u> in the address bar and then clicking on the "PicSearch" button gives you the ability to search for desired text on Google Images with the dimension of the image set to large.
 
 <img alt="omnibox" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ3MjAyZWFkNjg5MWViMWQ1YmI2YjJlY2E1MGJhY2ZiYjhkMGQ3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/F2yM91PTZCn0JD22io/giphy.gif" />
 
