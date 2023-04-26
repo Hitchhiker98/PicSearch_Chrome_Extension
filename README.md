@@ -11,16 +11,16 @@ The two methods for installing the extension are as follows:
 
 ## Usage
 ### The use of this extension is very simple.
-#### The most straightforward way you can use this application is to click on the extension icon, type in the keyword, and select the desired search engine
+#### The most straightforward way you can use this application is to click on the extension icon, type in the keyword, and select the desired search engine from Yahoo, Bing, Flickr, or DuckDuckGo.
 
-<img alt="browser action" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ2OTNlODBkNWUwMjJiMWJkOWJhNmQ5YTdiYTM5NTdmODAwZWFkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7UxDhPZBaViWXqTwGf/giphy.gif" />
+<img alt="browser action" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNlMDIyOThhMDEwODVjZDlkMTUzN2Q4Y2UwMmVkNTQzYTM5MjE5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/B1slQHGK8Dseezm1ou/giphy.gif" />
 
 #### Additional functionalities can be accessed through hotkeys. 
 1) On any webpage, create a selection of the text you want to search.
 2) Click the appropriate hotkey to get the desired search result.
 
 use the following hotkeys: 
- * **CTRL+SHIFT+5** - Searches the selection on Google Images with the dimension of the image set to large.
+ * **CTRL+SHIFT+5** - Searches the selection on Google Images with the dimension of the image set to large. *(You can also do this through Omnibox, as explained below).*
 <img alt="google search" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIxZTZmNmRmOWNhZjIzNDhiM2Y0ZWIzYTZjYTQ0YjdlMmFjM2IxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UYzJe1livuUuqyzpna/giphy.gif" />
 
 
@@ -32,17 +32,13 @@ use the following hotkeys:
  * **CTRL+SHIFT+Y** - Triggers the extension's popup and populates the search field with the selected text. 
 <img alt="trigger popup" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZkY2E2MDIyZTJjMWMwYzdjZjg4MTkwODcwZTlkODYxODM5YTU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eBQJX3it1MOnqiMLz8/giphy.gif" />
 
+### Omnibox
+#### Typing the letter <u>g</u> in the address bar and then clicking on the "PicSearch" button gives you the ability to search for desired text on Google Images with the dimension of the image set to large.
+
+<img alt="omnibox" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNlZDVjNTNhZGIyMzU4MWZiMTA3NzlhZjNhOTgzOTQyMjRmOGE3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yaXO6l61GHyO9b5qkH/giphy.gif" />
 
 
 
-
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
