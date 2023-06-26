@@ -40,6 +40,3 @@ use the following hotkeys:
 
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
